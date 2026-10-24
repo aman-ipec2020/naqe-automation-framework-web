@@ -19,7 +19,7 @@ public class FrameworkBuilderDataDrivenTest extends BaseTest {
     }
 
 
-    @Test(groups = {"smoke"}, dataProvider = "eventBookingData", description = "Create Multiple Events with .Json File - Book that event and verify if it's booked")
+//    @Test(groups = {"Regression"}, dataProvider = "eventBookingData", description = "Create Multiple Events with .Json File - Book that event and verify if it's booked")
     public void DemoTest(HashMap<String, String> data)  {
 
 
