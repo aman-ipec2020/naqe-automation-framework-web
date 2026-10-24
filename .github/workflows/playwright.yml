@@ -5,6 +5,31 @@ on:
     branches:
       - master
 
+workflow_dispatch:
+  inputs:
+    Profile:
+      description: 'Profile to run tests against'
+      required: true
+      default: 'framework'
+    Env:
+      description: 'Environment to run tests against'
+      required: true
+      default: 'config'
+      type: choice
+      options:
+        - UAT1
+        - UAT2
+    browser:
+      description: 'Browser to run tests against'
+      required: true
+      default: 'firefox'
+      type: choice
+      options:
+        - firefox
+        - chromium
+        - webkit
+        - safari
+
 jobs:
     test:
       timeout-minutes: 60
@@ -20,4 +45,4 @@ jobs:
         - name: Ensure browser binaries are installed
           run: mvn exec:java -e -D exec.mainClass=com.microsoft.playwright.CLI -D exec.args="install --with-deps"
         - name: Run Playwright Tests
-          run: mvn test -Pframework -DEnv=UAT1 -Dbrowser=firefox
+          run: mvn test -P${{ github.event.inputs.Profile }} -DEnv=${{ github.event.inputs.Env }} -Dbrowser=${{ github.event.inputs.browser }}
