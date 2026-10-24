@@ -11,7 +11,7 @@ on:
         description: 'Profile to run tests against'
         required: true
         default: 'framework'
-      Env:
+      Environment:
         description: 'Environment to run tests against'
         required: true
         default: 'config'
@@ -19,7 +19,7 @@ on:
         options:
           - UAT1
           - UAT2
-      browser:
+      Browser:
         description: 'Browser to run tests against'
         required: true
         default: 'firefox'
@@ -45,4 +45,4 @@ jobs:
         - name: Ensure browser binaries are installed
           run: mvn exec:java -e -D exec.mainClass=com.microsoft.playwright.CLI -D exec.args="install --with-deps"
         - name: Run Playwright Tests
-          run: mvn test -P${{ github.event.inputs.Profile }} -DEnv=${{ github.event.inputs.Env }} -Dbrowser=${{ github.event.inputs.browser }}
+          run: mvn test -Pframework -DEnv=${{ github.event.inputs.Environment }} -Dbrowser=${{ github.event.inputs.Browser }}
