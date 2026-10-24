@@ -14,7 +14,7 @@ on:
       Environment:
         description: 'Environment to run tests against'
         required: true
-        default: 'config'
+        default: 'UAT1'
         type: choice
         options:
           - UAT1
