@@ -1,0 +1,1 @@
+{"uuid":"dad17aab-5e99-45c4-acc4-0b9b1640e1a5","name":"driver.BaseTest.setup","children":["65376395-fa9d-4137-a410-a54ccb132642"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1792845166184,"stop":1792845169653}],"afters":[],"start":1792845166184,"stop":1792845169653}

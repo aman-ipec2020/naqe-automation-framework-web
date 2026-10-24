@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackgroundAgentGlobalSettings">
+    <option name="selectedModelId" value="auto" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="467c1e5a-f075-47c4-af53-9b82c1032585" name="Changes" comment="setting up the 'naqe-automation-framework-web' for the first time" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Users/AMAN PRADHAN/naqe-automation-framework-web/naqe-automation-framework-web" value="3L8Ef30ZVmFXkfhitG2JjQdAtIN" />
+    </persistenceIdMap>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;aman-ipec2020&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/aman-ipec2020/naqe-automation-framework-web&quot;,
+    &quot;accountId&quot;: &quot;374808e9-a687-4b66-a3fc-98d79f3cf5e8&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3Kld6vI5h8X7uJ63Y9C5HW5ip87" />
+  <component name="ProjectSessionTemplates">
+    <option name="panelTemplate">
+      <template>
+        <option name="modeId" value="Ask" />
+        <option name="model">
+          <model>
+            <option name="modelType" value="builtin_id" />
+            <option name="modelValue" value="auto" />
+          </model>
+        </option>
+        <option name="targetType" value="BACKGROUND" />
+        <option name="worktreeMode" value="WORKSPACE" />
+      </template>
+    </option>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Maven.web-automation-framework [allure:report].executor": "Run",
+    "Maven.web-automation-framework [clean,install].executor": "Run",
+    "Maven.web-automation-framework [org.apache.maven.plugins:maven-surefire-plugin:3.6.0-M1:test].executor": "Run",
+    "Maven.web-automation-framework [test,-PSmoke].executor": "Run",
+    "Maven.web-automation-framework [test,-Psmoke...].executor": "Run",
+    "Maven.web-automation-framework [test,-Psmoke].executor": "Run",
+    "Maven.web-automation-framework [test...].executor": "Run",
+    "Maven.web-automation-framework [test].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "TestNG.BaseTest.DemoTest.executor": "Run",
+    "TestNG.BaseTest.executor": "Run",
+    "TestNG.C:/Users/AMAN PRADHAN/naqe-automation-framework-web/naqe-automation-framework-web/testng.xml.executor": "Run",
+    "TestNG.DataProviderDemoTest.executor": "Run",
+    "TestNG.DataProviderDemoTest.testFillForm.executor": "Run",
+    "TestNG.FrameworkBuildTest.DemoTest.executor": "Debug",
+    "TestNG.FrameworkBuilderDataDrivenTest.DemoTest.executor": "Run",
+    "TestNG.FrameworkBuilderTest.DemoTest.executor": "Run",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "copilot.chat.legacySessionMetadata.migrated": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "C:/Users/AMAN PRADHAN/naqe-automation-framework-web/naqe-automation-framework-web/src/test/java",
+    "last_opened_file_path": "C:/Users/AMAN PRADHAN/naqe-automation-framework-web/naqe-automation-framework-web/src/test/resources/testData",
+    "node.js.detected.package.jshint": "true",
+    "node.js.selected.package.jshint": "",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/AMAN PRADHAN/naqe-automation-framework-web/naqe-automation-framework-web/src/main/java/com/playwright/automation/Main.java",
+    "settings.editor.selected.configurable": "com.github.copilot.settings.mcp.McpConfigurable",
+    "settings.editor.splitter.proportion": "0.16305062"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\AMAN PRADHAN\naqe-automation-framework-web\naqe-automation-framework-web\src\test\resources\testData" />
+      <recent name="C:\Users\AMAN PRADHAN\naqe-automation-framework-web\naqe-automation-framework-web\src\test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\AMAN PRADHAN\naqe-automation-framework-web\naqe-automation-framework-web\src\test\java" />
+      <recent name="C:\Users\AMAN PRADHAN\naqe-automation-framework-web\naqe-automation-framework-web\src\test\resources\testData" />
+      <recent name="C:\Users\AMAN PRADHAN\naqe-automation-framework-web\naqe-automation-framework-web\src\test\resources" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn test -PSmoke" />
+      <command value="mvn test -Psmoke" />
+      <command value="mvn test -Psmoke -Dbrowser=firefox" />
+      <command value="mvn test -Psmoke -DEnv=UAT1" />
+      <command value="mvn test -Psmoke -DEnv=UAT1 -Dbrowser=firefox" />
+      <command value="mvn clean install" />
+      <command value="mvn test -Pframework -DEnv=UAT1" />
+      <command value="mvn allure:report" />
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.FrameworkBuilderTest.DemoTest">
+    <configuration name="C:/Users/AMAN PRADHAN/naqe-automation-framework-web/naqe-automation-framework-web/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="web-automation-framework" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataProviderUtility" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="web-automation-framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.playwright.automation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="driver" />
+      <option name="MAIN_CLASS_NAME" value="utils.DataProviderUtility" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataProviderUtility.testFillForm" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="web-automation-framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.playwright.automation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="driver" />
+      <option name="MAIN_CLASS_NAME" value="utils.DataProviderUtility" />
+      <option name="METHOD_NAME" value="testFillForm" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FrameworkBuilderDataDrivenTest.DemoTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="web-automation-framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.playwright.automation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="utils" />
+      <option name="MAIN_CLASS_NAME" value="driver.FrameworkBuilderDataDrivenTest" />
+      <option name="METHOD_NAME" value="DemoTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FrameworkBuilderTest.DemoTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="web-automation-framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.playwright.automation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="driver" />
+      <option name="MAIN_CLASS_NAME" value="driver.FrameworkBuilderTest" />
+      <option name="METHOD_NAME" value="DemoTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.FrameworkBuilderTest.DemoTest" />
+        <item itemvalue="TestNG.C:/Users/AMAN PRADHAN/naqe-automation-framework-web/naqe-automation-framework-web/testng.xml" />
+        <item itemvalue="TestNG.FrameworkBuilderDataDrivenTest.DemoTest" />
+        <item itemvalue="TestNG.DataProviderUtility" />
+        <item itemvalue="TestNG.DataProviderUtility.testFillForm" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="467c1e5a-f075-47c4-af53-9b82c1032585" name="Changes" comment="" />
+      <created>1792135921197</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1792135921197</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="setting up the 'naqe-automation-framework-web' for the first time" />
+    <option name="LAST_COMMIT_MESSAGE" value="setting up the 'naqe-automation-framework-web' for the first time" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/playwright/automation/Main.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
