@@ -5,30 +5,30 @@ on:
     branches:
       - master
 
-workflow_dispatch:
-  inputs:
-    Profile:
-      description: 'Profile to run tests against'
-      required: true
-      default: 'framework'
-    Env:
-      description: 'Environment to run tests against'
-      required: true
-      default: 'config'
-      type: choice
-      options:
-        - UAT1
-        - UAT2
-    browser:
-      description: 'Browser to run tests against'
-      required: true
-      default: 'firefox'
-      type: choice
-      options:
-        - firefox
-        - chromium
-        - webkit
-        - safari
+  workflow_dispatch:
+    inputs:
+      Profile:
+        description: 'Profile to run tests against'
+        required: true
+        default: 'framework'
+      Env:
+        description: 'Environment to run tests against'
+        required: true
+        default: 'config'
+        type: choice
+        options:
+          - UAT1
+          - UAT2
+      browser:
+        description: 'Browser to run tests against'
+        required: true
+        default: 'firefox'
+        type: choice
+        options:
+          - firefox
+          - chromium
+          - webkit
+          - safari
 
 jobs:
     test:
