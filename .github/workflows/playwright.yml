@@ -47,4 +47,4 @@ jobs:
         - name: Ensure browser binaries are installed
           run: mvn exec:java -e -D exec.mainClass=com.microsoft.playwright.CLI -D exec.args="install --with-deps"
         - name: Run Playwright Tests
-          run: mvn test -Pframework -DEnv=${{ github.event.inputs.Environment }} -Dbrowser=${{ github.event.inputs.Browser }}
+          run: mvn test -Pframework -DEnv=UAT1 -Dbrowser=safari
