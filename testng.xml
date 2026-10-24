@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Functional" parallel="classes" verbose="1" thread-count="2">
+    <test name="Functional-Test-1">
+        <classes>
+            <class name="driver.FrameworkBuilderTest" />
+            <class name="driver.FrameworkBuilderDataDrivenTest" />
+        </classes>
+    </test>
+</suite>
